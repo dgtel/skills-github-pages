@@ -1,4 +1,4 @@
 ---
-title: Welcome to my updated blog
+title: Welcome to my updated blog kya hua
 ---
 
